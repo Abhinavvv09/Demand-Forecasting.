@@ -1,0 +1,1 @@
+This dataset contains monthly sales figures for a champagne brand. We utilize time series modeling techniques to forecast future sales based on historical trends and patterns observed within the data.
